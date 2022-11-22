@@ -2,7 +2,7 @@
 #     print("set instruct")
 #     break
 #
-# variabila1 = 1
+# variabila1 = 1git pull origin main
 # var2 = 2
 # while variabila1 < var2:
 #     print(var2)
