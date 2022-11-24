@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime
 
 
 def check_judet(cnp):
@@ -25,25 +25,10 @@ def check_sex(cnp):
 
 
 def check_date(cnp):
-    def check_an(cnp):
-        local = int(cnp[1] + cnp[2])
-        return local
-
-    def check_luna(cnp):
-        local = int(cnp[3] + cnp[4])
-        return local
-
-    def check_zi(cnp):
-        local = int(cnp[5] + cnp[6])
-        return local
-
-    an = check_an(cnp)
-    luna = check_luna(cnp)
-    zi = check_zi(cnp)
     try:
-        x = datetime.datetime(an, luna, zi)
+        datetime.strptime(cnp[1:7], '%y%m%d')
         return True
-    except Exception:
+    except ValueError:
         return False
 
 
@@ -90,6 +75,5 @@ def validare_buletin(cnp):
 
 
 cod_buletin = input("Introduceti cnp ul")
-
 
 print(validare_buletin(cod_buletin))
