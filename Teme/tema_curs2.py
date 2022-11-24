@@ -5,7 +5,9 @@ def your_function(*args, **kwargs):
         if type(i) == int or type(i) == float:
             suma += i
     return suma
- print(your_function(1, 5, -3 , "abc", [12,56,'cad']))
+
+
+print(your_function(1, 5, -3 , "abc", [12,56,'cad']))
 
 # ex 2
 def suma_recurs(param, tip):
@@ -33,7 +35,7 @@ def suma_recurs(param, tip):
         else:
             return suma_recurs(param - 1, 2)
 
- print(5,0)
+print(5,0)
 
 # ex 3
 def citire():
