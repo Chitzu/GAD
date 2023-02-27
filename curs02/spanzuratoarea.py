@@ -72,3 +72,4 @@ while nr_incercari < 7:
     if (numar_incercercari_ramase := 7 - nr_incercari) and numar_incercercari_ramase > 0:
         print(f"Mai ai {numar_incercercari_ramase} incercari")
     print(" ".join(cuvant))
+
