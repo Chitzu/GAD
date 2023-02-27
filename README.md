@@ -11,3 +11,14 @@ In the web app made with Django you can add, activate and modify the list of loc
 ![image](https://user-images.githubusercontent.com/60265131/221671993-58c2700d-717d-4f88-bde3-e962ade0cf4e.png)
 
 ![image](https://user-images.githubusercontent.com/60265131/221672044-82d10fa6-4ad7-43f3-b2fa-814261f9f5fb.png)
+
+![image](https://user-images.githubusercontent.com/60265131/221673148-434a3dd6-9064-4dda-9cee-7af30fc191dc.png)
+
+![image](https://user-images.githubusercontent.com/60265131/221673462-d8bddf06-74a5-4e65-a95c-7f332d637b93.png)
+
+![image](https://user-images.githubusercontent.com/60265131/221673563-7c328013-ef5e-4d58-8ee7-ba10da1fbe98.png)
+
+![image](https://user-images.githubusercontent.com/60265131/221673583-424c38cb-9c12-4e9a-a738-48dd74e267e3.png)
+
+
+
