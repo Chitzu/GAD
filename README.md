@@ -6,7 +6,7 @@ In the web app made with Django you can add, activate and modify the list of loc
 
 Login page
 
-![image](https://user-images.githubusercontent.com/60265131/221671100-a30c4db8-b341-42e5-b8e8-8ec008ab9271.png)
+![image](https://user-images.githubusercontent.com/60265131/221677030-037e57f9-a130-41d9-b501-f040ee359a95.png)
 
 
 Main page with the locations
