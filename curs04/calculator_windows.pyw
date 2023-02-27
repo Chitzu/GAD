@@ -61,5 +61,4 @@ Button(frame_butoane, text='.', width=15, height=3, bg='#eee', cursor='hand2', c
 Button(frame_butoane, text='=', width=20, height=3, bg='#FFA500', cursor='hand2', command=lambda : egalitate()).grid(row=4, column=3)
 
 
-
 window.mainloop()
