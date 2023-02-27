@@ -68,6 +68,8 @@
 # x = exercitiu(3)
 # print(x)
 
+
+
 #9
 
 # a = range(10)
