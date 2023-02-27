@@ -25,3 +25,5 @@ urlpatterns = [
     path('profile/', include('pontaj.urls')),
     path('user_profile/', include('userprofile.urls')),
 ]
+
+
