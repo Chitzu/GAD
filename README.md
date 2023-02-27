@@ -21,10 +21,10 @@ Add new account page
 
 Password reset page
 
-![image](https://user-images.githubusercontent.com/60265131/221672044-82d10fa6-4ad7-43f3-b2fa-814261f9f5fb.png)
+![image](https://user-images.githubusercontent.com/60265131/221677300-ae61d18a-6691-4c34-87ef-fc4722f1ec0d.png)
 
 
-![image](https://user-images.githubusercontent.com/60265131/221673148-434a3dd6-9064-4dda-9cee-7af30fc191dc.png)
+![image](https://user-images.githubusercontent.com/60265131/221677332-f43eb407-1f85-466b-84a2-4528dad742b8.png)
 
 
 Message sent for user
