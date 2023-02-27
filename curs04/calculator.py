@@ -36,7 +36,7 @@ input_field = Entry(input_frame, font=('arial', 18 , 'bold'),textvariable=input_
 input_field.grid(row=0, column=0)
 input_field.pack()
 
-frame_butoane =Frame(window, width=500, height=304, bg='grey')
+frame_butoane = Frame(window, width=500, height=304, bg='grey')
 frame_butoane.pack()
 
 Button(frame_butoane, text='C', width=49, height=3, bg='#eee', cursor='hand2', command=lambda: stergere()).grid(row=0, column=0, columnspan=3 )
